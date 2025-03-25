@@ -5,7 +5,7 @@ public class Disciplina {
     private String nome;
     private float notaMinima;
 
-    // Construtor esperado pela Main
+    // ConstrutorMain
     public Disciplina(int codigoDisciplina, String nome, float notaMinima) {
         this.codigoDisciplina = codigoDisciplina;
         this.nome = nome;
