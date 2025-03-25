@@ -5,7 +5,7 @@ public class Aluno {
     private String nome;
     private int idade;
 
-    // Construtor esperado pela Main
+    // ConstrutorMain
     public Aluno(int matricula, String nome, int idade) {
         this.matricula = matricula;
         this.nome = nome;
