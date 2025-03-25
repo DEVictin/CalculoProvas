@@ -1,0 +1,3 @@
+Disciplina: Matemática | Código: 101
+Aluno: Victor Vertuani | Matrícula: 3773 | Notas: 6.0, 7.0 | Média: 6,50 | Aprovado
+Aluno: Carlos | Matrícula: 3774 | Notas: 5.0, 8.0 | Média: 6,50 | Aprovado
