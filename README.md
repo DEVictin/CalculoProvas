@@ -80,8 +80,16 @@ Sistemas de informação;INF101;20231001;7.5;8.0;6.5
 - `Utils.java`: Métodos auxiliares (leitura, escrita e cálculos)
 
 ---
+---
 
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
 
 ## Autor
 
 Desenvolvido por **Victor Vertuani** – sinta-se à vontade para contribuir, sugerir melhorias ou relatar problemas.
+---
+
