@@ -49,7 +49,7 @@ java Main
 
 ---
 
-📂 Exemplo de arquivos de entrada
+## 📂 Exemplo de arquivos de entrada
 
 - Alunos.txt:   20231001;Victor Vertuani;Sistemas de informaçao
 
@@ -57,5 +57,7 @@ java Main
 
 - Cursos.txt: Sistemas de informaçao;INF101;20231001;7.5;8.0;6.5
 
-👨‍💻 Autor
+---
+
+## 👨‍💻 Autor
 Desenvolvido por Victor Vertuani – sinta-se à vontade para contribuir, sugerir melhorias ou relatar problemas.
