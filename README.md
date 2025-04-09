@@ -91,5 +91,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Autor
 
 Desenvolvido por **Victor Vertuani** – sinta-se à vontade para contribuir, sugerir melhorias ou relatar problemas.
+
 ---
 
