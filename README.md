@@ -4,28 +4,28 @@ Sistema em Java que permite consultar resultados de alunos ou disciplinas a part
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 📥 Leitura de dados de três arquivos:
+-  Leitura de dados de três arquivos:
   - `Alunos.txt`
   - `Disciplinas.txt`
   - `Cursos.txt`
-- 📊 Armazenamento em vetores de objetos
-- 🧭 Menu interativo com as opções:
+- Armazenamento em vetores de objetos
+- Menu interativo com as opções:
   - Buscar resultados
     - Por aluno (nome ou matrícula)
     - Por disciplina (nome ou código)
   - Sair do programa
-- ✅ Verificação de aprovação:
+- Verificação de aprovação:
   - Aprovado: média ≥ nota mínima da disciplina
   - Reprovado: média < nota mínima
-- 📄 Geração de relatórios:
+- Geração de relatórios:
   - Por aluno → `matricula.txt`
   - Por disciplina → `codigo.txt`
 
 ---
 
-## 💻 Como usar
+## Como usar
 
 1. Clone o repositório:
 
@@ -49,21 +49,21 @@ java Main
 
 ---
 
-## 🗂 Exemplo de arquivos de entrada
+## Exemplo de arquivos de entrada
 
-### 📄 Alunos.txt
+### Alunos.txt
 
 ```
 20231001;Victor Vertuani;Sistemas de informação
 ```
 
-### 📄 Disciplinas.txt
+### Disciplinas.txt
 
 ```
 INF101;Algoritmos I;6.0
 ```
 
-### 📄 Cursos.txt
+### Cursos.txt
 
 ```
 Sistemas de informação;INF101;20231001;7.5;8.0;6.5
@@ -71,7 +71,7 @@ Sistemas de informação;INF101;20231001;7.5;8.0;6.5
 
 ---
 
-## 📎 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `Main.java`: Classe principal com menu e lógica de execução
 - `Aluno.java`: Objeto com dados de aluno (matrícula, nome, curso)
@@ -82,6 +82,6 @@ Sistemas de informação;INF101;20231001;7.5;8.0;6.5
 ---
 
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Victor Vertuani** – sinta-se à vontade para contribuir, sugerir melhorias ou relatar problemas.
